@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luisy\\source\\repos\\ProvaProce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE7B321-1E6C-4C24-AB9C-5D595FC2DBCB}|ProvaProce\\ProvaProce.csproj|c:\\users\\luisy\\source\\repos\\provaproce\\provaproce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DE7B321-1E6C-4C24-AB9C-5D595FC2DBCB}|ProvaProce\\ProvaProce.csproj|solutionrelative:provaproce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE7B321-1E6C-4C24-AB9C-5D595FC2DBCB}|ProvaProce\\ProvaProce.csproj|c:\\users\\luisy\\source\\repos\\provaproce\\provaproce\\repos\\utenterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DE7B321-1E6C-4C24-AB9C-5D595FC2DBCB}|ProvaProce\\ProvaProce.csproj|solutionrelative:provaproce\\repos\\utenterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE7B321-1E6C-4C24-AB9C-5D595FC2DBCB}|ProvaProce\\ProvaProce.csproj|c:\\users\\luisy\\source\\repos\\provaproce\\provaproce\\repos\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DE7B321-1E6C-4C24-AB9C-5D595FC2DBCB}|ProvaProce\\ProvaProce.csproj|solutionrelative:provaproce\\repos\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE7B321-1E6C-4C24-AB9C-5D595FC2DBCB}|ProvaProce\\ProvaProce.csproj|c:\\users\\luisy\\source\\repos\\provaproce\\provaproce\\repos\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DE7B321-1E6C-4C24-AB9C-5D595FC2DBCB}|ProvaProce\\ProvaProce.csproj|solutionrelative:provaproce\\repos\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE7B321-1E6C-4C24-AB9C-5D595FC2DBCB}|ProvaProce\\ProvaProce.csproj|c:\\users\\luisy\\source\\repos\\provaproce\\provaproce\\models\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DE7B321-1E6C-4C24-AB9C-5D595FC2DBCB}|ProvaProce\\ProvaProce.csproj|solutionrelative:provaproce\\models\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DE7B321-1E6C-4C24-AB9C-5D595FC2DBCB}|ProvaProce\\ProvaProce.csproj|c:\\users\\luisy\\source\\repos\\provaproce\\provaproce\\provaproce.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0DE7B321-1E6C-4C24-AB9C-5D595FC2DBCB}|ProvaProce\\ProvaProce.csproj|solutionrelative:provaproce\\provaproce.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UtenteRepo.cs",
+              "DocumentMoniker": "C:\\Users\\luisy\\source\\repos\\ProvaProce\\ProvaProce\\Repos\\UtenteRepo.cs",
+              "RelativeDocumentMoniker": "ProvaProce\\Repos\\UtenteRepo.cs",
+              "ToolTip": "C:\\Users\\luisy\\source\\repos\\ProvaProce\\ProvaProce\\Repos\\UtenteRepo.cs",
+              "RelativeToolTip": "ProvaProce\\Repos\\UtenteRepo.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowBsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T16:41:06.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "C:\\Users\\luisy\\source\\repos\\ProvaProce\\ProvaProce\\Repos\\IRepo.cs",
+              "RelativeDocumentMoniker": "ProvaProce\\Repos\\IRepo.cs",
+              "ToolTip": "C:\\Users\\luisy\\source\\repos\\ProvaProce\\ProvaProce\\Repos\\IRepo.cs",
+              "RelativeToolTip": "ProvaProce\\Repos\\IRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T16:40:04.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Utente.cs",
+              "DocumentMoniker": "C:\\Users\\luisy\\source\\repos\\ProvaProce\\ProvaProce\\Models\\Utente.cs",
+              "RelativeDocumentMoniker": "ProvaProce\\Models\\Utente.cs",
+              "ToolTip": "C:\\Users\\luisy\\source\\repos\\ProvaProce\\ProvaProce\\Models\\Utente.cs",
+              "RelativeToolTip": "ProvaProce\\Models\\Utente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T16:38:54.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProvaProce",
+              "DocumentMoniker": "C:\\Users\\luisy\\source\\repos\\ProvaProce\\ProvaProce\\ProvaProce.csproj",
+              "RelativeDocumentMoniker": "ProvaProce\\ProvaProce.csproj",
+              "ToolTip": "C:\\Users\\luisy\\source\\repos\\ProvaProce\\ProvaProce\\ProvaProce.csproj",
+              "RelativeToolTip": "ProvaProce\\ProvaProce.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-07T16:38:28.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\luisy\\source\\repos\\ProvaProce\\ProvaProce\\Program.cs",
+              "RelativeDocumentMoniker": "ProvaProce\\Program.cs",
+              "ToolTip": "C:\\Users\\luisy\\source\\repos\\ProvaProce\\ProvaProce\\Program.cs",
+              "RelativeToolTip": "ProvaProce\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T16:38:17.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\Users\\luisy\\source\\repos\\ProvaProce\\ProvaProce\\Repos\\Config.cs",
+              "RelativeDocumentMoniker": "ProvaProce\\Repos\\Config.cs",
+              "ToolTip": "C:\\Users\\luisy\\source\\repos\\ProvaProce\\ProvaProce\\Repos\\Config.cs",
+              "RelativeToolTip": "ProvaProce\\Repos\\Config.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T16:41:23.547Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
